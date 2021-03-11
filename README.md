@@ -1,0 +1,1 @@
+Image compression with Kohonen's neural network(SOM), for color and grey images, frame size 3 or 4 pixels.
